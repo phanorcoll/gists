@@ -1,3 +1,7 @@
+[![Stories in Ready]
+(https://badge.waffle.io/phanorcoll/gists.png?label=ready&title=Ready)]
+(http://waffle.io/phanorcoll/gists)
+
 == GraphGists
 
 This repo contains content for use at http://gist.neo4j.org/.
